@@ -96,4 +96,9 @@ public class TmpActivity extends Activity {
     {
         double a = 0;
     }
+
+    public void feature1Code()
+    {
+        double b = 0;
+    }
 }
