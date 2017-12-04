@@ -106,4 +106,9 @@ public class TmpActivity extends Activity {
     {
         double c = 1.0f;
     }
+
+    public float feature1CodeNew()
+    {
+        return 0;
+    }
 }
