@@ -101,4 +101,9 @@ public class TmpActivity extends Activity {
     {
         double b = 0;
     }
+
+    public void feature2Code()
+    {
+        double c = 1.0f;
+    }
 }
